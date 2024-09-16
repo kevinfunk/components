@@ -1,0 +1,7 @@
+name: Demo Example Components
+type: module
+description: 'Custom demo example components.'
+package: Component
+core_version_requirement: ^9 || ^10 || ^11
+dependencies:
+  - component:component

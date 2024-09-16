@@ -1,0 +1,15 @@
+name: Tax Record Lookup
+description: 'Tax Record Lookup'
+type: 'block'
+js:
+  'tax_record_lookup.js' : {}
+css:
+  'tax_record_lookup.css' : {}
+template: 'tax_record_lookup.html'
+form_configuration:
+  url:
+    type: textfield
+    title: 'User data URL'
+props:
+  type: object
+  properties: {}
