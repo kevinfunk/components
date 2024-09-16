@@ -1,11 +1,11 @@
-table {
+tax-record-lookup table {
   width: 100%;
   border-collapse: collapse;
 }
-th, td {
+tax-record-lookup th, tax-record-lookup td {
   border: 1px solid #ddd;
   padding: 8px;
 }
-th {
+tax-record-lookup th {
   background-color: #f2f2f2;
 }
